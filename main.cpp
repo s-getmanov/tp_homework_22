@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+/*Репозиторий к задаче*/
+/*https://github.com/s-getmanov/tp_homework_22.git*/
+
 main()
 {
     int a, b;
